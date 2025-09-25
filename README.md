@@ -66,3 +66,8 @@ FatigueDetector类：实现疲劳检测功能
 
 
 ##########完整项目代码获取请联系qq：2122384040
+
+
+
+<img width="1269" height="933" alt="737088be9fe89df9d611c3bf633d60ef" src="https://github.com/user-attachments/assets/27c1b577-9749-44d2-bd42-0b0af75dd1d9" />
+
